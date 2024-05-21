@@ -1,0 +1,7 @@
+export { Home } from './Home'
+export { List } from './List'
+export { Layout } from './Layout'
+export { Gustavo } from './Gustavo'
+export { Nayara } from './Nayara'
+export { Vinicius } from './Vinicius'
+export { Yuri } from './Yuri'
